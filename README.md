@@ -14,7 +14,7 @@ A machine learning-based web application that predicts the price of a house base
 
 ---
 
-## 🛠Tech Stack
+## Tech Stack
 
 - **Language**: Python  
 - **Framework**: Flask  
